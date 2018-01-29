@@ -1,0 +1,17 @@
+
+
+
+
+**** Referencia de Variables Session
+
+    'session_user_id'  =>  
+    'session_user_acces_rol'     =>  
+    'session_user_nombre'     => 
+    'session_user_rut'  =>  
+    'session_user_usuario'     =>  
+    'session_user_email'     =>  
+    'session_user_logged_in' => TRUE | FALSE
+
+
+
+

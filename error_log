@@ -1,0 +1,1 @@
+[21-May-2017 23:20:42 America/Lima] PHP Parse error:  syntax error, unexpected ''save_queries'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/mdiaz1010/public_html/wiapp/application/config/database.php on line 95

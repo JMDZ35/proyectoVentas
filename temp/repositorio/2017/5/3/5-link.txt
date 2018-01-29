@@ -1,0 +1,3 @@
+rigesaweb.com/colegio2017
+user: dsotecani
+pass: 12345
