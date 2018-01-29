@@ -1,0 +1,11 @@
+commit e2ad4a2da18df422887f3a15c63afafd38ce1fb4
+Author: Jose <ebtrabajo@gmail.com>
+Date:   Sun Jan 28 23:04:19 2018 -0500
+
+    ModificacionDelProveedor.php
+
+commit 89db1b151862fab5117355ada9054ec096ed946f
+Author: Jose <ebtrabajo@gmail.com>
+Date:   Sun Jan 28 22:55:59 2018 -0500
+
+    Iniciamos
